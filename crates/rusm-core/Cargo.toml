@@ -1,0 +1,12 @@
+[package]
+name = "rusm-core"
+version = "0.1.0"
+edition = "2024"
+description = "Core traits and types for rusm - An opinionated paradigm for building service-like rust crates which can be deployed together or independently."
+license = "MIT OR Apache-2.0"
+authors = ["Garett Cooper <garett@garettcooper.com>"]
+readme = "README.md"
+homepage = "https://github.com/GarettCooper/rusm"
+repository = "https://github.com/GarettCooper/rusm"
+
+[dependencies]
